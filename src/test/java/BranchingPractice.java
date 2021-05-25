@@ -7,5 +7,10 @@ public class BranchingPractice {
         // added .gitnore with .idea, target folder and .iml file
         // made initial commit by track of all files
         // shared project on github
+
+        // reviewing on new branch
+        // doing more review on branch
+
+
     }
 }
